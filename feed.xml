@@ -3,10 +3,50 @@
     <title>manituana</title>
     <link href="https://kbby.github.io/manitublog/feed.xml" rel="self" />
     <link href="https://kbby.github.io/manitublog" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-06-22T18:37:10+02:00</updated>
     <author>
         <name>arancio</name>
     </author>
     <id>https://kbby.github.io/manitublog</id>
 
+    <entry>
+        <title>post 2</title>
+        <author>
+            <name>arancio</name>
+        </author>
+        <link href="https://kbby.github.io/manitublog/post-2/"/>
+        <id>https://kbby.github.io/manitublog/post-2/</id>
+
+        <updated>2021-06-22T18:37:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ecco
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ecco</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>blabla</title>
+        <author>
+            <name>arancio</name>
+        </author>
+        <link href="https://kbby.github.io/manitublog/blabla/"/>
+        <id>https://kbby.github.io/manitublog/blabla/</id>
+
+        <updated>2021-06-22T18:37:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    blablalbalbalblablalbalbla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blablalbalbalblablalbalbla</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
