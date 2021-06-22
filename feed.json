@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "manituana",
+    "description": "",
+    "home_page_url": "https://kbby.github.io/manitublog",
+    "feed_url": "https://kbby.github.io/manitublog/feed.json",
+    "user_comment": "",
+    "icon": "https://kbby.github.io/manitublog/media/website/manituana-logo.png",
+    "author": {
+        "name": "arancio"
+    },
+    "items": [
+    ]
+}
